@@ -1,5 +1,5 @@
 # ProgresBelajarku
-(Tulisan di bawah ini adalah contoh untuk pembelajaran Dicoding)
+*(Tulisan di bawah ini adalah contoh untuk pembelajaran Dicoding)*
 Repository Ini Berisi Pengalaman Belajarku di Dicoding
 
 14 Juni 2021
